@@ -1,0 +1,6 @@
+id=curl
+name=Curl For Android
+version=v1.0 (v7.65.0)
+versionCode=1
+author=Zackptg5
+description=Latest version of curl with zlib and openssl support
